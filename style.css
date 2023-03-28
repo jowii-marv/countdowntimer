@@ -5,9 +5,10 @@
 }
 body{
     background-image: url("./assets/christmas.jpg.jpg");
-    min-height: 100vh;
+    min-height: 10%;
     background-position: center;
     background-size: cover;
     font-family: "Poppins", sans-serif;
+    color: aliceblue;
     margin: 0;
 }
